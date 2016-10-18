@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools">
+    <item
+    android:id="@+id/contact_add"
+    android:icon="@drawable/ic_btn_add_contact"
+    android:title="@string/add"
+    app:showAsAction="always"/>
+    <!--<item
+    android:id="@+id/contact_delete"
+    android:icon="@drawable/ic_btn_del_contact"
+    app:showAsAction="never"
+    android:title="@string/delete"/>-->
+</menu>
